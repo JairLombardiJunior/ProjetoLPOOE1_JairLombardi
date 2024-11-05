@@ -1,0 +1,4 @@
+model\Genero_Jogo.class
+model\Pessoa.class
+model\Cd.class
+br\edu\ifsul\cc\lpoo\projetolpooe1_locadora\dao\InterfaceBD.class
